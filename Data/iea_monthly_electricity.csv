@@ -1,0 +1,95 @@
+Country,Time,Balance,Product,Value,Unit
+Australia,Jul-25,Net Electricity Production,Electricity,24847.3,GWh
+Australia,Jul-25,Net Electricity Production,Hydro,1108.361,GWh
+Australia,Jul-25,Net Electricity Production,Total Combustible Fuels,16131.39,GWh
+Australia,Jul-25,Net Electricity Production,"Coal, Peat and Manufactured Gases",11233.68,GWh
+Australia,Jul-25,Net Electricity Production,Oil and Petroleum Products,419.278,GWh
+Australia,Jul-25,Net Electricity Production,Natural Gas,4211.851,GWh
+Australia,Jul-25,Net Electricity Production,Combustible Renewables,266.5777,GWh
+Australia,Jul-25,Net Electricity Production,Solar,3178.943,GWh
+Australia,Jul-25,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",8982.493,GWh
+Australia,Jul-25,Used for pumped storage,Electricity,95.6021,GWh
+Australia,Jul-25,Distribution Losses,Electricity,1207.646,GWh
+Australia,Jul-25,Final Consumption (Calculated),Electricity,23544.05,GWh
+Australia,Jul-25,Net Electricity Production,Wind,4428.612,GWh
+Austria,Jul-25,Net Electricity Production,Electricity,6931.187,GWh
+Austria,Jul-25,Net Electricity Production,Hydro,4046.359,GWh
+Austria,Jul-25,Net Electricity Production,Total Combustible Fuels,772.0939,GWh
+Austria,Jul-25,Net Electricity Production,"Coal, Peat and Manufactured Gases",161.6049,GWh
+Austria,Jul-25,Net Electricity Production,Oil and Petroleum Products,55.5398,GWh
+Austria,Jul-25,Net Electricity Production,Natural Gas,146.1586,GWh
+Austria,Jul-25,Net Electricity Production,Combustible Renewables,348.5272,GWh
+Austria,Jul-25,Net Electricity Production,Other Combustible Non-Renewables,60.2634,GWh
+Austria,Jul-25,Net Electricity Production,Geothermal,0.0004,GWh
+Austria,Jul-25,Net Electricity Production,Solar,1357.963,GWh
+Austria,Jul-25,Net Electricity Production,Not Specified,1.0112,GWh
+Austria,Jul-25,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",6506.609,GWh
+Austria,Jul-25,Total Imports,Electricity,1673.968,GWh
+Austria,Jul-25,Total Exports,Electricity,2313.917,GWh
+Austria,Jul-25,Used for pumped storage,Electricity,534.1721,GWh
+Austria,Jul-25,Distribution Losses,Electricity,237.8218,GWh
+Austria,Jul-25,Final Consumption (Calculated),Electricity,5519.244,GWh
+Austria,Jul-25,Net Electricity Production,Wind,753.7595,GWh
+Belgium,Jul-25,Net Electricity Production,Electricity,5167.277,GWh
+Belgium,Jul-25,Net Electricity Production,Nuclear,1453.717,GWh
+Belgium,Jul-25,Net Electricity Production,Hydro,77.691,GWh
+Belgium,Jul-25,Net Electricity Production,Total Combustible Fuels,1601.521,GWh
+Belgium,Jul-25,Net Electricity Production,"Coal, Peat and Manufactured Gases",264.3276,GWh
+Belgium,Jul-25,Net Electricity Production,Oil and Petroleum Products,12.1568,GWh
+Belgium,Jul-25,Net Electricity Production,Natural Gas,926.0281,GWh
+Belgium,Jul-25,Net Electricity Production,Combustible Renewables,299.0703,GWh
+Belgium,Jul-25,Net Electricity Production,Other Combustible Non-Renewables,99.9386,GWh
+Belgium,Jul-25,Net Electricity Production,Solar,1379.63,GWh
+Belgium,Jul-25,Net Electricity Production,Not Specified,38.4634,GWh
+Belgium,Jul-25,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",2372.645,GWh
+Belgium,Jul-25,Total Imports,Electricity,2540.785,GWh
+Belgium,Jul-25,Total Exports,Electricity,1060.749,GWh
+Belgium,Jul-25,Used for pumped storage,Electricity,95.715,GWh
+Belgium,Jul-25,Distribution Losses,Electricity,291.7829,GWh
+Belgium,Jul-25,Final Consumption (Calculated),Electricity,6259.815,GWh
+Belgium,Jul-25,Net Electricity Production,Wind,616.2535,GWh
+Canada,Jul-25,Net Electricity Production,Electricity,50150.61,GWh
+Canada,Jul-25,Net Electricity Production,Nuclear,6928.735,GWh
+Canada,Jul-25,Net Electricity Production,Hydro,26423,GWh
+Canada,Jul-25,Net Electricity Production,Total Combustible Fuels,12927.7,GWh
+Canada,Jul-25,Net Electricity Production,"Coal, Peat and Manufactured Gases",2251.188,GWh
+Canada,Jul-25,Net Electricity Production,Oil and Petroleum Products,447.7902,GWh
+Canada,Jul-25,Net Electricity Production,Natural Gas,9206.181,GWh
+Canada,Jul-25,Net Electricity Production,Combustible Renewables,1009.536,GWh
+Canada,Jul-25,Net Electricity Production,Other Combustible Non-Renewables,13.0016,GWh
+Canada,Jul-25,Net Electricity Production,Solar,1107.108,GWh
+Canada,Jul-25,Net Electricity Production,Not Specified,28.1667,GWh
+Canada,Jul-25,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",31275.55,GWh
+Canada,Jul-25,Total Imports,Electricity,2144.402,GWh
+Canada,Jul-25,Total Exports,Electricity,3343.673,GWh
+Canada,Jul-25,Used for pumped storage,Electricity,15.5326,GWh
+Canada,Jul-25,Distribution Losses,Electricity,2112.811,GWh
+Canada,Jul-25,Final Consumption (Calculated),Electricity,46823,GWh
+Canada,Jul-25,Net Electricity Production,Wind,2735.909,GWh
+Chile,Jul-25,Net Electricity Production,Electricity,7651.467,GWh
+Chile,Jul-25,Net Electricity Production,Hydro,1277.595,GWh
+Chile,Jul-25,Net Electricity Production,Total Combustible Fuels,3819.905,GWh
+Chile,Jul-25,Net Electricity Production,"Coal, Peat and Manufactured Gases",1651.349,GWh
+Chile,Jul-25,Net Electricity Production,Oil and Petroleum Products,103.0132,GWh
+Chile,Jul-25,Net Electricity Production,Natural Gas,1555.261,GWh
+Chile,Jul-25,Net Electricity Production,Combustible Renewables,510.2812,GWh
+Chile,Jul-25,Net Electricity Production,Geothermal,7.6039,GWh
+Chile,Jul-25,Net Electricity Production,Solar,1431.445,GWh
+Chile,Jul-25,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",4341.844,GWh
+Chile,Jul-25,Distribution Losses,Electricity,467.8602,GWh
+Chile,Jul-25,Final Consumption (Calculated),Electricity,7183.607,GWh
+Chile,Jul-25,Net Electricity Production,Wind,1114.919,GWh
+Colombia,Jul-25,Net Electricity Production,Electricity,7713.943,GWh
+Colombia,Jul-25,Net Electricity Production,Hydro,5692.346,GWh
+Colombia,Jul-25,Net Electricity Production,Total Combustible Fuels,1635.134,GWh
+Colombia,Jul-25,Net Electricity Production,"Coal, Peat and Manufactured Gases",154.4268,GWh
+Colombia,Jul-25,Net Electricity Production,Oil and Petroleum Products,267.7513,GWh
+Colombia,Jul-25,Net Electricity Production,Natural Gas,983.2951,GWh
+Colombia,Jul-25,Net Electricity Production,Combustible Renewables,229.6602,GWh
+Colombia,Jul-25,Net Electricity Production,Solar,363.8845,GWh
+Colombia,Jul-25,Net Electricity Production,Not Specified,2.4702,GWh
+Colombia,Jul-25,Net Electricity Production,"Total Renewables (Hydro, Geo, Solar, Wind, Other)",6305.999,GWh
+Colombia,Jul-25,Total Imports,Electricity,0.1655,GWh
+Colombia,Jul-25,Total Exports,Electricity,5.3893,GWh
+Colombia,Jul-25,Distribution Losses,Electricity,623.2975,GWh
+Colombia,Jul-25,Final Consumption (Calculated),Electricity,7085.421,GWh
